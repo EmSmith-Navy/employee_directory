@@ -1,5 +1,5 @@
 @port=3000
-@host=http://localhost:{{port}}
+@host=http://localhost:3000
 
 ### GET /
 GET {{host}}
